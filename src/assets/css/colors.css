@@ -1,0 +1,42 @@
+.c-dark {
+    color: #333333;
+    transition: .3s ease-out;
+}
+
+.c-dark:hover {
+    color: #393939;
+    cursor: pointer;
+    transition: .3s ease-in;
+}
+
+.c-grey-primary {
+    color: #c2c2c2;
+    transition: .3s ease-in;
+}
+
+.c-grey-primary:hover{
+    color: #c9c9c9;
+    cursor: pointer;
+    transition: .3s ease-in;
+}
+
+.c-white {
+    color: #fff;
+    transition: .3s ease-in;
+}
+
+.c-white:hover{
+    color: #f9f9f9;
+    cursor: pointer;
+    transition: .3s ease-in;
+}
+
+.c-blue{
+    color: #2552D9;
+    transition: .3s ease-in;
+}
+
+.c-blue:hover{
+    transition: 0.3s ease-in;
+    color: #2563D1;
+}
